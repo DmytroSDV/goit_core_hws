@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.0.2
+Summary: My first deployment
+Home-page: https://github.com/DmytroSDV/my_HWs.git
+Author: Dmytro Smashmy
+Author-email: sdmytrov11@gmail.com
+License: MIT
+Requires-Dist: unidecode
